@@ -6,8 +6,8 @@
 Adafruit_BME280 bmp; // I2C
 
 
-const char* ssid = "Hobsonsnet2.4";
-const char* password = "280+Hobson$Bay_men";
+const char* ssid = "SSID";
+const char* password = "Password";
 
 WiFiServer server(80);
 
